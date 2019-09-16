@@ -1,0 +1,20 @@
+{
+    "ALPHANUM": "NVARCHAR(max)",
+    "BIGINT": "BIGINT",
+    "BLOB": "NVARCHAR(max)",
+    "BOOLEAN": "BIT",
+    "CLOB": "NVARCHAR(max)",
+    "DATE": "DATETIME2",
+    "DECIMAL": "DECIMAL",
+    "DOUBLE": "REAL",
+    "INTEGER": "INT",
+    "NVARCHAR": "NVARCHAR(max)",
+    "REAL": "REAL",
+    "SECONDDATE": "DATETIME2",
+    "SMALLINT": "SMALLINT",
+    "TIME": "TIME",
+    "TIMESTAMP": "DATETIME2",
+    "TINYINT": "TINYINT",
+    "VARCHAR": "NVARCHAR(max)",
+    "VARBINARY":"VARBINARY(max)"
+}
